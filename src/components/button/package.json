@@ -1,0 +1,7 @@
+{
+  "name": "Button",
+  "private": true,
+  "version": "0.1.0",
+  "main":"./Button.js",
+  "description": "按钮"
+}

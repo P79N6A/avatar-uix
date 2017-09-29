@@ -1,0 +1,1 @@
+import './public/styles/avatar-uix.css';
